@@ -1,0 +1,30 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hero {
+    background: url('../images/header-bg.jpg') no-repeat center center/cover;
+    padding: 100px 0;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.services i {
+    color: #dc3545;
+    margin-bottom: 10px;
+}
+
+.card {
+    border: none;
+}
+
+.card-header {
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 20px;
+}
