@@ -1,12 +1,20 @@
 body {
     font-family: 'Arial', sans-serif;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb2wW6M8xtO0yBfyPQAiLdr-LeJCWKsC_SRw&s");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .hero {
     background: url('../images/header-bg.jpg') no-repeat center center/cover;
     padding: 100px 0;
 }
+h2{ color: white;}
 
+p{
+    color: white;
+}
 .hero h1 {
     font-size: 3rem;
     font-weight: bold;
